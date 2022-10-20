@@ -1,0 +1,50 @@
+Hey bro can you tell Hubert that he can apply to this company (EnhanceIT), 
+They based it Atlanta and they do the same thing; 
+plus they have about 6 departments including 
+Cyber Security, Machine Learning, Android, iOS, Big Data, and data science). 
+They are always hiring, and I have friends who finished training and get client jobs. 
+I feel bad for him, but I don’t have his contacts. 
+I am 200% sure if he apply, they will get him.
+
+
+
+
+Email.Folder("Inbox")
+
+Email.Folder("Priority")
+
+Email.Folder("Gmail")
+
+Email.Folder("[Imap]/Trash") use the search bar for this one
+
+Email.Folder("Snoozed")
+
+Email.Folder("Important")
+
+Email.Folder("Sent")
+
+Email.Folder("Scheduled")
+
+Email.Folder("Outbox")
+
+Email.Folder("Drafts")
+
+Email.Folder("Spam")
+
+Email.Folder("Trash")
+
+Email.Folder("Notes")
+
+Email.Folder("Unwanted")
+
+Email.Folder("Travel")
+
+Email.Folder("Work")
+
+Email.Folder("Personal")
+
+
+
+
+
+

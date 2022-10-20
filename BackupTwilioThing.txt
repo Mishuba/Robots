@@ -1,0 +1,18 @@
+fhWQypfw-D9XWqmmGaapv8Ua3M8kvcMYL8xLlfYB
+Login Auth code 
+
+Twilio Phone Number
+12076905875
+
+Auth Token
+4473b4b68cbaa7d9605e1f4d7150deea
+
+Account SID
+AC96d7b0d3fa766cd145e9e71625a06b05
+
+Key Main 
+Secret = XEIv2ThCtJ4sPoXMuWABCbGmA5KuvmRX
+
+Api Id = SK5e237c2d4a590103dbb9623655ca1e3b
+
+
