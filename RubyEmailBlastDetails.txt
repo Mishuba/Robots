@@ -1,0 +1,30 @@
+Sending Emails
+
+Input Dialog
+    -Get Email Subject
+Input Dialog 
+    -Get Music File
+Use Email 
+- Start Transcation 
+    - Run Query
+        SELECT * FROM 
+    - Assign SWlength to DatabaseExportedTable
+    Assign Counter to 0
+    - Do While 
+        * Send Email 
+            send to 
+                DatabaseExportedTable.Rows(Counter)(2).ToString
+        * Counter ++ 
+        Condition 
+            - Counter < SWlength
+
+Repeat for each database 
+
+hhdsp
+hhlink
+hhboth
+hhet
+rockdsp
+rocklink
+rockboth
+rocket
